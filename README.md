@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shoaibe</h1>
+<h1 align="center">Hi 👋, I'm shoaib</h1>
 <h3 align="center">A passionate ios developer from sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubs7777&label=Profile%20views&color=0e75b6&style=flat" alt="shubs7777" /> </p>
